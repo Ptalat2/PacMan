@@ -16,7 +16,7 @@ To Lose:
 1. Get Hit by a ghost
 
 Power-Up info:
-1. Player will become invivible for 5 seconds
+1. Player will become invisible for 5 seconds
 2. No ghost can harm Pac-Man for 5 seconds
 
 ***The power up is the greek token located on the lower right of canvas***
