@@ -19,4 +19,7 @@ Power-Up info:
 1. Player will become invisible for 5 seconds
 2. No ghost can harm Pac-Man for 5 seconds
 
+logisitics:
+1. Move with arrow keys(up down left and right)
+
 ***The power up is the greek token located on the lower right of canvas***
