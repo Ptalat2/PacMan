@@ -1,0 +1,83 @@
+* {
+    background-color: black;
+    overflow-y: hidden; /* Hide vertical scrollbar */
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+body{
+    padding:10px 20px ;
+    background-color:black;
+    width:auto;
+    height:800px;
+}
+
+
+#headings {
+    color: white;
+    text-align: center;
+    height: 70px;
+    
+}
+
+canvas{
+    border: 1px solid red;
+    position: relative;
+    width: 550px;
+    top:50px;
+    height: auto;
+
+}
+.overlay {
+    display:none;
+    height: 305px;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 100px;
+    left: 1035px;
+    background-color: rgb(67,70,75);
+    overflow-x: hidden;
+    transition: 0.5s;
+  }
+  
+  .overlay-content {
+    position: relative;
+    top: 15%;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+    color:limegreen;
+  }
+
+  #button {
+    background-color:white;
+    border-radius: 20%;
+    color:red;
+    width:75px;
+    height:30px;
+    position: relative;
+    top:120px;
+    left:100px;
+  }
+
+  
+  /* .overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 15px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+  }
+
+  
+  .overlay-content >a {
+    color:limegreen;
+    position: relative;
+    padding:none;
+    background-color:white;
+    top:-20px;
+
+  } */
+
+  
+
