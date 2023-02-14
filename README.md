@@ -22,4 +22,4 @@ Power-Up info:
 logisitics:
 1. Move with arrow keys(up down left and right)
 
-***The power up is the greek token located on the lower right of canvas***
+***The power up is the green token located on the lower right of canvas***
